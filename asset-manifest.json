@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cbef4d9.css",
-    "main.js": "/static/js/main.eeb5e3e5.js",
+    "main.css": "/static/css/main.c34de1d4.css",
+    "main.js": "/static/js/main.7009f72a.js",
     "static/js/787.0dff1f57.chunk.js": "/static/js/787.0dff1f57.chunk.js",
     "static/media/vibez r 2500 Default.png": "/static/media/vibez r 2500 Default.e57dccba7c2a3c9b41c3.png",
     "static/media/vibez r 2500 Frosted Mint.png": "/static/media/vibez r 2500 Frosted Mint.cb33eee3bb90297f75f7.png",
@@ -62,12 +62,12 @@
     "static/media/sticks logo.png": "/static/media/sticks logo.16235f606154af372fb3.png",
     "static/media/luffbar-bubble-6000.jpg": "/static/media/luffbar-bubble-6000.c94677277089182f2ed1.jpg",
     "index.html": "/index.html",
-    "main.9cbef4d9.css.map": "/static/css/main.9cbef4d9.css.map",
-    "main.eeb5e3e5.js.map": "/static/js/main.eeb5e3e5.js.map",
+    "main.c34de1d4.css.map": "/static/css/main.c34de1d4.css.map",
+    "main.7009f72a.js.map": "/static/js/main.7009f72a.js.map",
     "787.0dff1f57.chunk.js.map": "/static/js/787.0dff1f57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cbef4d9.css",
-    "static/js/main.eeb5e3e5.js"
+    "static/css/main.c34de1d4.css",
+    "static/js/main.7009f72a.js"
   ]
 }
