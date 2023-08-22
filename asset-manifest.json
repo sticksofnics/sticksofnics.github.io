@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8115946.css",
-    "main.js": "/static/js/main.e494ef89.js",
+    "main.css": "/static/css/main.1509f263.css",
+    "main.js": "/static/js/main.821f21fd.js",
     "static/js/787.0dff1f57.chunk.js": "/static/js/787.0dff1f57.chunk.js",
     "static/media/vibez r 2500 Default.png": "/static/media/vibez r 2500 Default.e57dccba7c2a3c9b41c3.png",
     "static/media/vibez r 2500 Frosted Mint.png": "/static/media/vibez r 2500 Frosted Mint.cb33eee3bb90297f75f7.png",
@@ -72,13 +72,16 @@
     "static/media/ocean.png": "/static/media/ocean.c9ccbf67f588f6e94b14.png",
     "static/media/sticks logo.png": "/static/media/sticks logo.16235f606154af372fb3.png",
     "static/media/luffbar-bubble-6000.jpg": "/static/media/luffbar-bubble-6000.c94677277089182f2ed1.jpg",
+    "static/media/tg-logo.png": "/static/media/tg-logo.a4a761990ab3abca6085.png",
+    "static/media/ig-logo.png": "/static/media/ig-logo.06045aa7f3b7d2266054.png",
+    "static/media/snap-logo.png": "/static/media/snap-logo.539d9b4f44939f024986.png",
     "index.html": "/index.html",
-    "main.a8115946.css.map": "/static/css/main.a8115946.css.map",
-    "main.e494ef89.js.map": "/static/js/main.e494ef89.js.map",
+    "main.1509f263.css.map": "/static/css/main.1509f263.css.map",
+    "main.821f21fd.js.map": "/static/js/main.821f21fd.js.map",
     "787.0dff1f57.chunk.js.map": "/static/js/787.0dff1f57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8115946.css",
-    "static/js/main.e494ef89.js"
+    "static/css/main.1509f263.css",
+    "static/js/main.821f21fd.js"
   ]
 }
